@@ -1,46 +1,90 @@
-# 🚗 Flex Rides
+🚗 Flex Rides
 
-A full-stack transportation platform built to connect riders and drivers through a modern, user-friendly experience.
+A full-stack ride-sharing platform connecting riders and drivers through a modern, reliable, and user-friendly transportation experience.
 
-## 📱 About The Project
+📱 About The Project
 
-Flex Rides is a ride-sharing application designed with separate experiences for riders and drivers. The platform focuses on reliable transportation, simple booking, and efficient driver management.
+Flex Rides is a transportation platform designed with separate applications for riders and drivers. The platform provides a seamless ride-booking experience for passengers while giving drivers the tools they need to manage trips, availability, and earnings.
 
-## ✨ Features
+The project was built to demonstrate a complete full-stack application workflow, including frontend development, backend services, authentication, API integration, and payment processing.
 
-- Rider application
-- Driver application
-- User authentication
-- Trip management
-- Backend API integration
-- Payment processing with Stripe
-- Mobile-friendly interface
-- User-friendly design
+✨ Features
 
-## 🛠️ Technologies
+Rider Application
 
-Frontend:
-- React
-- JavaScript
-- HTML/CSS
+* Create and manage user accounts
+* Request rides
+* Manage pickup and destination locations
+* Track trip progress
+* View ride history
+* Mobile-friendly user experience
 
-Backend:
-- Node.js
-- APIs
-- Database integration
+Driver Application
 
-Tools:
-- Git/GitHub
-- Stripe
-- Cloud deployment
+* Driver registration and authentication
+* Accept and manage ride requests
+* Update availability status
+* Manage active trips
+* Track completed rides and earnings
 
-## 🎯 Project Goals
+Platform Features
 
-The goal of Flex Rides is to create a scalable transportation platform that improves the experience for both riders and drivers.
+* User authentication
+* Trip management
+* Backend API integration
+* Database integration
+* Payment processing with Stripe
+* Responsive and modern interface
 
-## 👨‍💻 Developer
+🛠️ Technology Stack
 
-Built by Jose Rubirosa
+Frontend
 
-Junior Full Stack Developer  
-Focused on React, JavaScript, Python, APIs, and AI-powered applications.
+* React
+* JavaScript
+* HTML5
+* CSS3
+
+Backend
+
+* Node.js
+* REST APIs
+* Database integration
+
+Services & Tools
+
+* Stripe Payments
+* Git & GitHub
+* Cloud Deployment
+
+📸 Screenshots
+
+(Add rider app, driver app, and backend dashboard screenshots here)
+
+🎯 Project Goals
+
+The goal of Flex Rides is to build a scalable transportation platform that improves mobility for riders while creating better tools and opportunities for drivers.
+
+Future improvements include:
+
+* Real-time location tracking
+* Push notifications
+* Advanced analytics
+* Ride scheduling
+* Multi-city expansion
+
+👨‍💻 Developer
+
+Jose Rubirosa
+
+Junior Full Stack Developer
+
+Focused on:
+
+* React
+* JavaScript
+* Python
+* APIs
+* AI-powered applications
+
+Built with a focus on creating practical, scalable software solutions.
